@@ -6,8 +6,8 @@ Date this project got created: July 19th 2023
 ### Project Title - Replace the Project Title
 GitHub Project - Laura Baumann
 
-### Description
-Describe what your project is about and what it does
+### Description - Describe what your project is about and what it does
+This is the last project of the Data Science scholarship program from udacity.
 
 ### Files used
 Include the files used
