@@ -36,7 +36,7 @@ def get_filters():
     # TO DO: get user input for month (all, january, february, ... , june)
     months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
     while True:
-        month = input('Which month would you like to see? Please enter the month January, February, March, April, May or June: ')
+        month = input('Which month would you like to see? Please enter the month January, February, March, April, May or June (- other months are not available yet): ')
         month = month.lower()
        
         if month not in months:
