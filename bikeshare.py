@@ -23,7 +23,7 @@ def get_filters():
         city = city.lower()
         
         if city not in CITY_DATA:
-            print('YOu choose a wrong city.')
+            print('You choose a wrong city.')
             continue
         break
 
